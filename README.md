@@ -94,6 +94,7 @@ the design are not held solely by the author.
 ## Attribution
 
 Designed by **Muhammad Hammad Hassan Mallick** — Senior Member, Controls and
-Battery Management, Formula Electric Racing NUST (2021–2025).
+Battery Management and **Hammad Safeer"** - Lead, Controls and
+Battery Management , Formula Electric Racing NUST.
 
 The accumulator and the wider vehicle were the work of the full FERN team.
