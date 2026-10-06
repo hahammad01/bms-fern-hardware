@@ -9,8 +9,6 @@ Both were designed, fabricated, assembled and brought up for the 2023
 competition car. FERN placed **1st in Asia and 22nd of over 100 teams at Formula
 Student UK 2023**.
 
-Designed in EasyEDA by Muhammad Hammad Hassan Mallick — Controls and Battery
-Management sub-team.
 
 ---
 
